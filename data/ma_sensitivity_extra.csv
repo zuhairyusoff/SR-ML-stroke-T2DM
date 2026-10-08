@@ -1,0 +1,13 @@
+analysis,k,C,lo,hi,pi_lo,pi_hi,I2,tau2
+UKPDS_RE | main,7,0.658,0.53,0.767,0.318,0.888,98.539,0.257
+UKPDS_RE | stroke-only outcomes,6,0.673,0.531,0.79,0.3,0.908,98.778,0.265
+UKPDS_OM2 | main,6,0.624,0.594,0.654,0.555,0.689,73.371,0.008
+UKPDS_OM2 | stroke-only outcomes,6,0.624,0.594,0.654,0.555,0.689,73.371,0.008
+RECODe | main,5,0.684,0.613,0.747,0.488,0.831,95.123,0.054
+RECODe | stroke-only outcomes,5,0.684,0.613,0.747,0.488,0.831,95.123,0.054
+NewReg | main,7,0.704,0.687,0.72,0.672,0.734,71.554,0.002
+NewReg | stroke-only outcomes,5,0.712,0.677,0.745,0.63,0.782,71.682,0.01
+ML | main,4,0.782,0.673,0.862,0.418,0.947,95.406,0.109
+ML | stroke-only outcomes,1,,,,,,,
+NewReg | adding unspecified diabetes type,8,0.702,0.69,0.714,0.681,0.722,66.824,0.001
+ML | adding unspecified diabetes type,8,0.734,0.668,0.791,0.519,0.876,95.303,0.13

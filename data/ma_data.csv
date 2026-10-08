@@ -1,0 +1,30 @@
+group,label,record,c,lo,hi,n,e,imputed,rob
+UKPDS_RE,Yew 2019 Malaysia,17848,0.574,,,660.0,20.0,Yes,High
+UKPDS_RE,Yaghoubvand 2021 Iran,16555,0.51,0.31,0.7,557.0,,No,High
+UKPDS_RE,Davis 2009 Australia,21901,0.86,0.78,0.93,791.0,,No,High
+UKPDS_RE,Bannister 2014 UK (women),19798,0.73,,,35000.0,1190.0,Yes,Unclear
+UKPDS_RE,Bannister 2014 UK (men),19798,0.71,,,44966.0,1529.0,Yes,Unclear
+UKPDS_RE,Yang 2007 Hong Kong,22187,0.588,0.549,0.627,7209.0,372.0,No,Unclear
+UKPDS_RE,Ho 2023 USA,7097,0.55,,,45510.0,2390.0,No,Unclear
+UKPDS_OM2,Basu 2018 MESA,1911,0.6,,,1555.0,89.0,No,High
+UKPDS_OM2,Basu 2018 JHS,1911,0.6,,,1746.0,142.0,No,High
+UKPDS_OM2,Yang 2024 Taiwan NCKUH,4358,0.6498,,,11740.0,587.0,Yes,Unclear
+UKPDS_OM2,Yang 2024 Taiwan NTUH,4358,0.6496,,,20313.0,1016.0,Yes,Unclear
+UKPDS_OM2,Ho 2023 USA,7097,0.61,,,45510.0,2390.0,No,Unclear
+UKPDS_OM2,Laxy 2019 Germany,17166,0.57,0.47,0.66,456.0,,No,High
+RECODe,Basu 2018 MESA,1911,0.75,,,1555.0,89.0,No,High
+RECODe,Basu 2018 JHS,1911,0.72,,,1746.0,142.0,No,High
+RECODe,Yang 2024 Taiwan NCKUH,4358,0.6579,,,11740.0,587.0,Yes,Unclear
+RECODe,Yang 2024 Taiwan NTUH,4358,0.7001,,,20313.0,1016.0,Yes,Unclear
+RECODe,Ho 2023 USA,7097,0.61,,,45510.0,2390.0,No,Unclear
+NewReg,Quan 2019 HK-Singapore (external),144,0.695,0.69,0.699,386425.0,,No,Low
+NewReg,Yu 2018 UK (external),397,0.7098,0.6875,0.7321,1121.0,56.0,No,High
+NewReg,Wells 2013 USA (10-fold CV),3421,0.688,,,26140.0,1451.0,No,Unclear
+NewReg,Shao 2023 China (5-year),14637,0.72,,,9844.0,295.0,Yes,High
+NewReg,Kim 2020 Korea (validation),17005,0.703,0.698,0.708,389139.0,,No,High
+NewReg,Li 2018 Taiwan (5-year),17975,0.71,,,9374.0,1076.0,No,Unclear
+NewReg,Yang 2007 Hong Kong (test),22187,0.77,,,3604.0,186.0,Yes,Unclear
+ML,Dworzynski 2020 Denmark GB,4073,0.72,0.7,0.74,,,No,Low
+ML,Abas 2025 Malaysia LightGBM,11727,0.74,,,17698.0,56.0,Yes,High
+ML,US claims 2026 XGBoost,4500,0.8,,,80000.0,1600.0,Yes,Unclear
+ML,Nicolucci 2022 Italy XGBoost,15304,0.846,,,7852.0,300.0,Yes,High

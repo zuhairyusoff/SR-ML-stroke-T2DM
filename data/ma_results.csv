@@ -1,0 +1,13 @@
+analysis,k,C,lo,hi,pi_lo,pi_hi,I2,tau2
+A. UKPDS Risk Engine stroke equation (external validations),7,0.658,0.53,0.767,0.318,0.888,98.539,0.257
+A. UKPDS Risk Engine stroke equation (external validations) | sensitivity: excluding high RoB,4,0.649,0.497,0.776,0.219,0.924,99.239,0.153
+A. UKPDS Risk Engine stroke equation (external validations) | sensitivity: excluding imputed SE,4,0.642,0.338,0.863,0.049,0.984,88.417,0.522
+B. UKPDS Outcomes Model 2 stroke equation (external validations),6,0.624,0.594,0.654,0.555,0.689,73.371,0.008
+B. UKPDS Outcomes Model 2 stroke equation (external validations) | sensitivity: excluding imputed SE,4,0.609,0.589,0.627,0.582,0.634,0.0,0.0
+C. RECODe stroke equation (external validations),5,0.684,0.613,0.747,0.488,0.831,95.123,0.054
+C. RECODe stroke equation (external validations) | sensitivity: excluding imputed SE,3,0.691,0.483,0.843,0.015,0.997,93.353,0.111
+D. Newly developed regression models (best validation estimate per study),7,0.704,0.687,0.72,0.672,0.734,71.554,0.002
+D. Newly developed regression models (best validation estimate per study) | sensitivity: excluding high RoB,4,0.711,0.653,0.763,0.55,0.832,78.799,0.019
+D. Newly developed regression models (best validation estimate per study) | sensitivity: excluding imputed SE,5,0.699,0.69,0.709,0.68,0.718,58.778,0.001
+E. Machine learning models (best model per study),4,0.782,0.673,0.862,0.418,0.947,95.406,0.109
+E. Machine learning models (best model per study) | sensitivity: excluding high RoB,2,0.762,0.162,0.982,,,97.788,0.095
