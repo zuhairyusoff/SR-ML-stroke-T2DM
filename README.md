@@ -37,8 +37,14 @@ To verify in R (from the `analysis/` folder): `Rscript verify_in_R_metafor.R` (r
 
 ## Licence
 
-Code: MIT. Data extracted from published studies are provided for reproducibility; please cite the original studies.
+The code in this repository is released under the MIT License (see `LICENSE`). The data files contain summary results extracted from published studies and are shared to allow the analyses to be reproduced. When using these data, please cite the original studies listed in the manuscript.
 
 ## Citation
 
-Mohamed Yusoff MZ, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: a systematic review and meta-analysis. [Journal, year, DOI to be added on publication]
+The manuscript is currently in preparation. Until it is published, please cite this repository as:
+
+Mohamed Yusoff MZ, Isa MR, Razak TR, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: analysis code and data. GitHub; 2026. Available from: https://github.com/zuhairyusoff/SR-ML-stroke-T2DM
+
+## Contact
+
+Dr Mohamad Zuhair Mohamed Yusoff, Department of Public Health Medicine, Faculty of Medicine, Universiti Teknologi MARA, Malaysia.
