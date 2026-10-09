@@ -1,6 +1,6 @@
 # Machine learning versus regression for predicting stroke in type 2 diabetes
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23233257.svg)](https://doi.org/10.5281/zenodo.23233257)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23252500.svg)](https://doi.org/10.5281/zenodo.23252500)
 
 Analysis code and data for the systematic review and meta-analysis
 "Machine Learning versus Conventional Regression Models for Predicting Incident Stroke in Adults with Type 2 Diabetes: A Systematic Review and Meta-analysis".
@@ -45,7 +45,7 @@ The code in this repository is released under the MIT License (see `LICENSE`). T
 
 The manuscript is currently in preparation. Until it is published, please cite this repository as:
 
-Mohamed Yusoff MZ, Isa MR, Razak TR, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: analysis code and data. Version 1.0. Zenodo; 2026. doi:10.5281/zenodo.23233257
+Mohamed Yusoff MZ, Isa MR, Razak TR, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: analysis code and data. Version 1.1. Zenodo; 2026. doi:10.5281/zenodo.23252500
 
 ## Contact
 
