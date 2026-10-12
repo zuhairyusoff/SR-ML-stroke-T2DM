@@ -20,7 +20,7 @@ box(L,70,W,8,'Records screened\n(n = 28,861)'); box(R,70,RW,8,'Records excluded\
 box(L,56,W,8,'Reports sought for retrieval\n(n = 184)'); box(R,56,RW,8,'Reports not retrieved\n(n = 16)')
 box(L,42,W,8,'Reports assessed for eligibility\n(n = 168)')
 box(R,22,RW,28,'Reports excluded (n = 146):\n  No stroke specific performance\n     (composite outcome only) (n = 102)\n  Trial population, R2 (n = 10)\n  Not T2D or type not specified, R1 (n = 10)\n  Wrong outcome or design (n = 9)\n  Prior stroke not excluded, R3 (n = 8)\n  No model performance reported (n = 4)\n  Preprint, retracted or duplicate (n = 3)',fs=9.3,ha='left')
-box(L,4,W,16,'Studies included in review\n(n = 22)\n\nStudies included in meta-analysis\n(n = 19)')
+box(L,4,W,16,'Studies included in review\n(n = 22)\n\nStudies included in meta-analysis\n(n = 20)')
 cx=L+W/2
 arr(L+W,98,R,98); arr(cx,84,cx,78); arr(L+W,74,R,74); arr(cx,70,cx,64)
 arr(L+W,60,R,60); arr(cx,56,cx,50); arr(L+W,46,R,46); arr(cx,42,cx,20)

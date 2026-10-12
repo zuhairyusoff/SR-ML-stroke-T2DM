@@ -1,5 +1,5 @@
 import matplotlib; matplotlib.use('Agg'); import matplotlib.pyplot as plt
-rows=[('Newly developed regression',7,.70,.69,.72,.67,.73,'#1F4E78'),('Machine learning (best per study)',4,.78,.67,.86,.42,.95,'#C55A11'),('RECODe (external)',5,.68,.61,.75,.49,.83,'#7F7F7F'),('UKPDS Risk Engine (external)',7,.66,.53,.77,.32,.89,'#7F7F7F'),('UKPDS OM2 (external)',6,.62,.59,.65,.56,.69,'#7F7F7F'),(None,)*8,('Sensitivity: regression, stroke only',5,.71,.68,.75,.63,.78,'#1F4E78'),('Sensitivity: ML, stroke only (1 study)',1,.72,.70,.74,None,None,'#C55A11'),('Sensitivity: ML, adding unspecified type',8,.73,.67,.79,.52,.88,'#C55A11')]
+rows=[('Newly developed regression',7,.70,.69,.72,.67,.73,'#1F4E78'),('Machine learning (best per study)',4,.78,.67,.86,.42,.95,'#C55A11'),('RECODe (external)',5,.68,.61,.75,.49,.83,'#7F7F7F'),('UKPDS Risk Engine (external)',7,.66,.53,.77,.32,.89,'#7F7F7F'),('UKPDS OM2 (external)',7,.63,.60,.65,.57,.68,'#7F7F7F'),(None,)*8,('Sensitivity: regression, stroke only',5,.71,.68,.75,.63,.78,'#1F4E78'),('Sensitivity: ML, stroke only (1 study)',1,.72,.70,.74,None,None,'#C55A11'),('Sensitivity: ML, adding unspecified type',8,.73,.67,.79,.52,.88,'#C55A11')]
 fig,ax=plt.subplots(figsize=(10,5.2));n=len(rows)
 for i,r in enumerate(rows):
     y=n-i

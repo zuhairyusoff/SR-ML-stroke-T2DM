@@ -12,6 +12,7 @@ UKPDS_OM2,Yang 2024 Taiwan NCKUH,4358,0.6498,,,11740.0,587.0,Yes,Unclear
 UKPDS_OM2,Yang 2024 Taiwan NTUH,4358,0.6496,,,20313.0,1016.0,Yes,Unclear
 UKPDS_OM2,Ho 2023 USA,7097,0.61,,,45510.0,2390.0,No,Unclear
 UKPDS_OM2,Laxy 2019 Germany,17166,0.57,0.47,0.66,456.0,,No,High
+UKPDS_OM2,McEwan 2015 UK (THIN),19629,0.626,,,54169.0,723.0,No,High
 RECODe,Basu 2018 MESA,1911,0.75,,,1555.0,89.0,No,High
 RECODe,Basu 2018 JHS,1911,0.72,,,1746.0,142.0,No,High
 RECODe,Yang 2024 Taiwan NCKUH,4358,0.6579,,,11740.0,587.0,Yes,Unclear
@@ -26,5 +27,5 @@ NewReg,Li 2018 Taiwan (5-year),17975,0.71,,,9374.0,1076.0,No,Unclear
 NewReg,Yang 2007 Hong Kong (test),22187,0.77,,,3604.0,186.0,Yes,Unclear
 ML,Dworzynski 2020 Denmark GB,4073,0.72,0.7,0.74,,,No,Low
 ML,Abas 2025 Malaysia LightGBM,11727,0.74,,,17698.0,56.0,Yes,High
-ML,US claims 2026 XGBoost,4500,0.8,,,80000.0,1600.0,Yes,Unclear
+ML,McCoy 2026 USA XGBoost,4500,0.8,,,80000.0,1600.0,Yes,Unclear
 ML,Nicolucci 2022 Italy XGBoost,15304,0.846,,,7852.0,300.0,Yes,High

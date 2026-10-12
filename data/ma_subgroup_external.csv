@@ -1,0 +1,4 @@
+analysis,estimate,z,P
+ML vs NewReg difference in logit C,0.409,2.31,0.021
+NewReg external validations only,"0.698 (0.616 to 0.769), k=2, I2=37",,
+"ML vs NewReg, stroke-only outcomes (ML k=1)",0.039,0.5,0.619

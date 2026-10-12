@@ -1,7 +1,7 @@
 # Verification of the pooled C-statistics in R (metafor).
 # Reads the data directly from this GitHub repository.
 # Verified on R 4.5.2 with metafor 5.2-1: reproduces the Python pooled estimates
-# (NewReg 0.704, ML 0.782, RECODe 0.684, UKPDS_RE 0.658, UKPDS_OM2 0.624).
+# (NewReg 0.704, ML 0.782, RECODe 0.684, UKPDS_RE 0.658, UKPDS_OM2 0.626 after adding McEwan 2015 in v1.2).
 
 library(metafor)   # install.packages("metafor") if not yet installed
 
