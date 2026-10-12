@@ -45,7 +45,7 @@ The code in this repository is released under the MIT License (see `LICENSE`). T
 
 The manuscript is currently in preparation. Until it is published, please cite this repository as:
 
-Mohamed Yusoff MZ, Isa MR, Razak TR, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: analysis code and data. Version 1.1. Zenodo; 2026. doi:10.5281/zenodo.23252500
+Mohamed Yusoff MZ, Isa MR, Razak TR, et al. Machine learning versus conventional regression models for predicting incident stroke in adults with type 2 diabetes: analysis code and data. Version 1.2. Zenodo; 2026. doi:10.5281/zenodo.23252500
 
 ## Contact
 
